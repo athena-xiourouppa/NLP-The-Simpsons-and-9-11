@@ -6,6 +6,8 @@ Data was obtained from Prashant Banerjee via Kaggle at https://www.kaggle.com/pr
 
 Contained in file "The Simpsons Data.zip"
 
+top_75_topics.html - Exploration file for the distribution of words across the optimal number of LDA topics, 75.
+
 **Notebooks**
 
 Analysis of George Bush Speech and 9/11 Commission Report - Similar cleaning and analysis done for the official 9/11 commission report and an address given by George Bush
