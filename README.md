@@ -2,11 +2,9 @@
 An investigation of the impact of 9/11 on spoken dialogue from television series, The Simpsons, from 1989 to 2016 using Python.
 Data was obtained from Prashant Banerjee via Kaggle at https://www.kaggle.com/prashant111/the-simpsons-dataset
 
-**Data**
+**Cleaned Data**
 
-Contained in file "The Simpsons Data.zip"
-
-top_75_topics.html - Exploration file for the distribution of words across the optimal number of LDA topics, 75.
+simpsons_df_fixed.csv for import as a data frame and simpsons_script_fixed.txt for import as a string (note: stop words are still included)
 
 **Notebooks**
 
@@ -26,3 +24,5 @@ TF-IDF for 9/11 Report and Speech Compared to General Corpus - Calculates TF-IDF
 
 Topic Analysis with LDA - Uses LDA to classify the script into topics, including an assessment of the ideal number of topics using coherence scoring 
 
+**Exports**
+top_75_topics.html - Exploration file for the distribution of words across the optimal number of LDA topics, 75.
